@@ -1,6 +1,6 @@
 # Counterfeit Drug Detection — Synthetic Sample Generator
 
-This project uses **Stable Diffusion XL (SDXL)** to generate synthetic drug images from authentic samples. The purpose is to augment a dataset used to train a machine learning model for detecting counterfeit drugs.
+This project uses **Stable Diffusion XL (SDXL)** to generate synthetic drug images from authentic samples. The purpose is to augment a dataset used to train a machine learning model for detecting counterfeit medications from a med packaging context.
 
 By generating high-quality synthetic images that resemble real samples, we improve the variety and generalization of training data—especially when real counterfeit examples are limited or unavailable.
 
