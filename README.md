@@ -6,7 +6,7 @@ By generating high-quality synthetic images that resemble real samples, we impro
 
 ## Project Purpose
 
-To build a reliable counterfeit drug detection model, it's important to train on a broad and diverse dataset. This project expands on authentic images using generative AI, helping to simulate realistic counterfeit variations and improve model performance.
+To build a reliable counterfeit med detection model, it's important to train on a broad and diverse dataset. This project expands on authentic images using generative AI, helping to simulate realistic counterfeit variations and improve model performance.
 
 ## Dataset Source
 
